@@ -1,0 +1,7 @@
+{
+    "max-instances": "5",
+    "description": "BUG", 
+    "uuid": "bug@bugtest", 
+    "version": "2.0",
+    "name": "BUG"
+}
